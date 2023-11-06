@@ -1,4 +1,4 @@
-# NutriGPT: Unlocking Nutrition Insights for India 🇮🇳
+# Recipo
 
 
 
@@ -16,15 +16,6 @@ The primary end users of Recipo are bachelors  and healthcare professionals inte
 
 ---
 
-## Industry Impact
-NutriGPT has the potential to have a significant impact on the healthcare and nutrition industry in India. It provides a convenient and efficient way to access real-time nutrition data and insights, allowing stakeholders to make informed decisions and formulate effective policies. Researchers can use NutriGPT to analyze trends and patterns in nutrition data, leading to valuable discoveries in the field of public health.
-
----
-
-## Business Value
-NutriGPT offers a valuable service by bridging the gap between data sources and actionable insights. It can be monetized by offering premium features or data analysis services to organizations and institutions interested in in-depth nutrition assessments. The application can generate revenue through subscription models or consulting services for data-driven decision-making.
-
----
 
 ## Utilization of the LLM App
 - NutriGPT utilizes the LLM (Large Language Model) App features provided by Pathway to build a real-time data pipeline.
