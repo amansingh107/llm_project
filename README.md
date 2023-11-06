@@ -12,7 +12,7 @@ Explore different recipes across world
 
 
 ## End User
-The primary end users of Recipo are bachelors  and healthcare professionals interested in gaining insights into the nutrition status of India. Secondary users may include students, journalists, and anyone seeking information on nutrition-related topics in India.
+The primary end users of Recipo are bachelors  and healthcare professionals interested in knowing recipes of new dishes
 
 ---
 
